@@ -45,5 +45,5 @@ func main() {
 
 	val := Mymap3["0"]
 	fmt.Println(val)
-	
+
 }
