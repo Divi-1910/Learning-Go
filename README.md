@@ -1,3 +1,10 @@
-# My journey of learning go 
+# Learning Go
 
-studying from a udemy course 
+
+Resources :
+
+    ChatGPT
+    Official Golang documentation 
+    Youtube 
+    
+        
