@@ -1,0 +1,12 @@
+Why use Rate Limiting?
+    Prevent Overload
+    Fairness
+    Cost Management
+
+Common Rate Limiting Algorithms
+    Token Bucket Algorithm
+    Leaky Bucket Algorithm
+    Fixed Window Counter
+    Sliding Window Log
+    Sliding Window Counter
+
